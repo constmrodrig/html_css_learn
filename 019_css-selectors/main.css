@@ -1,0 +1,22 @@
+div {
+    width: 24px;
+    height: 24px;
+    background-color: red;
+    display: inline-block;
+}
+
+div:link {
+    background-color: indigo;
+}
+
+div:visited {
+    background-color: indigo;
+}
+
+div:hover {
+    background-color: green;
+}
+
+div:active {
+    background-color: indigo;
+}
